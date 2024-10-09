@@ -1,0 +1,16 @@
+name: Cloud-Native
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/306fbe92-e769-440e-8812-6a1dc7ed3c66
+description: This is a showcase on Azure Cloud Native, the products, events and how to get started or go deep with cloud native technologies, including Serverless on Azure.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/Cloud-Native
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
